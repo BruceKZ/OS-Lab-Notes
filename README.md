@@ -110,7 +110,6 @@ Appendix E in the PintOS documentation (`@/PDF/pintos_documentation`) explains h
 
 ## 1. Project0: Lists
 
-hello
 
 
 
