@@ -109,3 +109,26 @@ gdb> target remote localhost:1234  # connect to the running pintos
 Appendix E in the PintOS documentation (`@/PDF/pintos_documentation`) explains how to use GDB and other debugging techniques.
 
 ## 1. Project0: Lists
+
+hello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
